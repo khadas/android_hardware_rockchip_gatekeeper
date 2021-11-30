@@ -17,6 +17,7 @@ cc_binary {
         "libutils",
         "liblog",
         "libRkgatekeeper",
+        "libRkTeeGatekeeper",
     ],
 }
 
